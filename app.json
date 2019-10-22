@@ -1,0 +1,19 @@
+{
+  "appKey": "n0Yw8f3jH72RCDQHGsmxgJlvb1rEGYyn",
+  "appSecret": "Shs7gn9o51jE15lbDvHeOY6nQtgOh7mN",
+  "projectId": 104,
+  "id": 235,
+  "name": "nuxt",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Alex9a/Nuxt.git",
+    "isPrivate": 0,
+    "username": "Alex9a",
+    "password": "Aa6735629"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
